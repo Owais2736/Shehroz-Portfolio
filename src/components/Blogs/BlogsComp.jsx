@@ -7,7 +7,7 @@ import Img3 from "../../assets/blog/blog3.png";
 const BlogsData = [
   {
     id: 1,
-    image: "src/assets/images/project1.png",
+    image: "assets/images/project1.png",
     title: "Booking Management System",
     description:
       "“This is a law firm management dashboard designed to organize and display bookings, departments, and lawyer profiles. It features a clean, user-friendly interface with a navigation sidebar for quick access to various sections like bookings, team, and services.",
@@ -16,7 +16,7 @@ const BlogsData = [
   },
   {
     id: 2,
-    image:"src/assets/images/project2.png",
+    image:"assets/images/project2.png",
     title: "Flute Files Publishing Dashboard",
     description:
       "An online platform dedicated to selling sheet music for flutists, featuring a collection of best-selling Christian arrangements. Users can explore sheet music, books, FAQs, and a catalog with options to log in/register for a seamless shopping experience.",
@@ -25,7 +25,7 @@ const BlogsData = [
   },
   {
     id: 3,
-    image:"src/assets/images/project3.png",
+    image:"assets/images/project3.png",
     title: "R;pple - Online Mental Health Support",
     description:
       "A platform dedicated to transforming harmful online searches into opportunities for mental health support by discreetly intercepting flagged terms and guiding users to free, 24/7 resources. It aims to foster hope and provide solutions for those in need through compassionate intervention. ",

@@ -9,7 +9,7 @@ const Hero = () => {
           {/* Image section */}
           <div data-aos="zoom-in" className="order-1 sm:order-2 relative">
             <img
-              src="src/assets/images/shehroz.png" 
+              src="assets/images/shehroz.png" 
               alt=""
               className="w-full h-[500px] sm:max-w-[280px] md:max-w-[430px]"
             />
